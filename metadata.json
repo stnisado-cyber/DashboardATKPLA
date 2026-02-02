@@ -1,5 +1,5 @@
 {
-  "name": "Portal ATK - PLA",
-  "description": "A comprehensive HRGA dashboard for tracking office supplies (ATK) inventory, transactions (In/Out), and user consumption patterns with AI-powered insights.",
+  "name": "Portal Monitor ATK",
+  "description": "A comprehensive office supplies (ATK) management portal with user request forms and administrative stock monitoring dashboards.",
   "requestFramePermissions": []
 }
